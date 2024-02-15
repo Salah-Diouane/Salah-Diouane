@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![sdiouane's 42 stats](https://badge.mediaplus.ma/greenbinary/sdiouane)](https://github.com/oakoudad/badge42)
+[![sdiouane's 42 stats](https://badge.mediaplus.ma/binary/sdiouane)](https://github.com/oakoudad/badge42)
 <!--
 **Salah-Diouane/Salah-Diouane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
