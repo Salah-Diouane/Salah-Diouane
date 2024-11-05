@@ -1,10 +1,10 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20I'm%20Abdellatif.%20Welcome!&section=header&reversal=false&textBg=false&fontAlign=50&animation=blinking&rotate=0&strokeWidth=1&descAlign=62&descAlignY=76&fontSize=37" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi,%20I'm%20Salah Diouane.%20Welcome!&section=header&reversal=false&textBg=false&fontAlign=50&animation=blinking&rotate=0&strokeWidth=1&descAlign=62&descAlignY=76&fontSize=37" alt="header" width="100%" />
 <samp>
 i'm a student in 1337 coding school, 42 The Network<br>
-You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/abdellatif-el-fagrouch/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
+You can find my school and personal projects below. Me, I'm here <a href="https://www.linkedin.com/in/salah-diouane/"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" width="35" /></a>.<br><br>
  </samp>
  
 
@@ -26,10 +26,7 @@ You can find my school and personal projects below. Me, I'm here <a href="https:
 
 * I love code!
 * 🌍  I'm based in TATA city, Morroco
-* ✉️  You can contact me at [rcabdw@gmail.com]
-* 🚀  I'm currently working on Net_Practice
-* 🧠  I'm learning c programming language and other languages!
-* 🤝  I'm open to collaborating on c programming language
+* ✉️  You can contact me at [salahdiouane@gmail.com]
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
