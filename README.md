@@ -1,127 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salah-Eddine Diouane
-=============================================================================================================================================
+<div align="center">
 
-i'm a student in 1337 coding school, 42 The Network
----------------------------------------------------
-![68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f363837343734373037333361326632663639326537303639366536393664363732653633366636643266366637323639363736393665363136](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sdiouane" alt="sdiouane's 42 stats" /></a>
+<h1>Hi 👋 I'm Salah-Eddine Diouane</h1>
+<h3>1337 / 42 Network Student | Full-Stack Developer</h3>
 
-* I love code!
-* 🌍  I'm based in Ouarzazate city, Morroco
-* 🖥️  See my portfolio at (https://salahdiouane.vercel.app/)
-* ✉️  You can contact me at [mohimi1337@gmail.com](mailto:mohimi1337@gmail.com)
-
-
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a><a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p>
+  <a href="https://badge.mediaplus.ma/greenbinary/sdiouane">
+    <img src="https://badge.mediaplus.ma/greenbinary/sdiouane" />
+  </a>
 </p>
 
+---
 
-### Socials
+### 👨‍💻 About Me
 
-<p align="left"> <a href="https://discordapp.com/users/1087872289627979926" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/Himi Muhammed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Mhimi1337" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/_mhimi12_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Himi Mohamed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+🎓 Student at 1337 / 42 Network  
+📍 Agadir, Morocco  
+💻 Full-Stack Developer focused on Backend & Systems Programming  
 
-<b>My GitHub Stats</b>
+🌐 Portfolio: [salahdiouane.vercel.app](https://salahdiouane.vercel.app/)
 
-<a href="http://www.github.com/Mhimi1337"><img src="https://github-readme-stats.vercel.app/api?username=Mhimi1337&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Mhimi1337's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/Mhimi1337"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhimi1337&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🛠 Tech Stack
 
-<a href="https://github.com/Mhimi1337" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhimi1337&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,nodejs,express,postgres,prisma,linux,docker,grafana,prometheus,socketio,sqlite&perline=7" />
+</p>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+### 📂 Projects
 
-## :artist: Current Design Skills
+<div align="center">
+   PonGame  
+-  Inception  
+-  IRC Server  
+-  Philosophers  
+-  C++ Modules  
+-  Minishell
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,webflow,ae,wordpress)](https://skillicons.dev)
+---
 
-<br>
-> :desktop_computer:  Design Tools - Figma | Adobe XD | Canva | Sketch | InVision | Balsamiq | Marvel | Proto
+### 📈 GitHub Stats
 
-> 🛌 Digital Suites - Adobe Suite | Microsoft Office | Google Suite
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-Diouane&theme=dark)
 
-> 🗣️ Team Tools - Slack | Miro | Trello | Notion | Mural | Jira | Asana
 
-> 🖥️ Web Design and Development - Framer | Wix | Webflow | Wordpress
+---
 
-<details>
-  <summary>💻 See More Design Skills</summary>
-  
-## 🧍 User
-  📊 User Research and Analysis 
+⭐ Always learning. Always building.
 
-  🗺️ Persona Creation and Empathy Mapping
-
-  📖 User Stories, Flows and Journey Mapping
-
-  🗣️ Conducting User Interviews and Surveys
-
-  📑 Storyboarding and User Story Creation
-
-  🧑‍🏫 User Onboarding and User Training
-
-  ❓ Iterative User Testing and Feedback Incorporation
-
-  📷 User Behavior Tracking
-
-  💻 Usability Testing
-
-<br>
-
-## 🖋️ Design
-    
-  👁️ Accessibility and Inclusive Design
-  
-  🥅 Gamification and Behavioral Design
-  
-  🌐 Multilingual and Multicultural Design Considerations
-  
-  🛒 Competitor Analysis and Benchmarking
-  
-  🖥️ A/B Testing and Iterative Design
-
-<br>
-
-## 💻 Development
-
-  📑 Design Systems and Libraries
-  
-  🗒️ Wireframing, Mockups and Prototyping
-  
-  🖱️ Interactions, Microinteractions and Motion Design
-  
-  🏗️ Information Architecture
-  
-  📢 Collaboration with Cross-Functional Teams and Stakeholders
-  
-  🧑‍💻 Multi-Device and Responsive Design
-  > 🖥️ Web
- 
-  > 📱 Mobile
-
-  > :window: Tablet
- 
-  > 👓 AR/VR
-
-  > 🖥️ Dashboard
-
-  > ⌚ Watch
-
-  > 📺 TV
-
-  > 🎮 Consoles
- 
-  > 📺 Presentations
-
-  > 📶 Smart Home Devices and Applications
- 
-  > :placard: Digital Signage and Billboards
-
-  > ✋Kiosks
-    
+</div>
