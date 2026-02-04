@@ -17,19 +17,22 @@
 📍 Agadir, Morocco  
 💻 Full-Stack Developer focused on Backend & Systems Programming  
 
-🌐 Portfolio: [salahdiouane.vercel.app](https://salahdiouane.vercel.app/)
+<p align="center">
+  🌐 <a href="https://salahdiouane.vercel.app/">Portfolio</a> &nbsp;&nbsp;       |&nbsp;&nbsp;
+  💼 <a href="https://www.linkedin.com/in/salah-diouane-163141247/">LinkedIn</a> &nbsp;&nbsp;
+</p>
 
 ---
 
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,nodejs,express,postgres,prisma,linux,docker,grafana,prometheus,socketio,sqlite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript,nodejs,express,postgres,prisma,linux,docker,grafana,prometheus,socketio,sqlite,react,css,tailwind&perline=7" />
 </p>
 
 ---
 
-### 📂 Projects
+### 📂 Some Projects
 
 <div align="center">
    PonGame  
@@ -49,6 +52,8 @@
 
 ---
 
-⭐ Always learning. Always building.
+ Always learning. Always building.
+---
+ 
 
 </div>
