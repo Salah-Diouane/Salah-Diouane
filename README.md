@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi 👋 I'm Salah-Eddine Diouane</h1>
+<h1>Hi, I'm Salah-Eddine Diouane</h1>
 <h3>1337 / 42 Network Student | Full-Stack Developer</h3>
 
 <p>
