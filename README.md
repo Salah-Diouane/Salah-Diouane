@@ -32,19 +32,6 @@
 
 ---
 
-### 📂 Some Projects
-
-<div align="center">
-   PonGame  
--  Inception  
--  IRC Server  
--  Philosophers  
--  C++ Modules  
--  Minishell
-</div>
-
----
-
 ### 📈 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-Diouane&theme=dark)
