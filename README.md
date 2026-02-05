@@ -4,8 +4,8 @@
 <h3>1337 / 42 Network Student | Full-Stack Developer</h3>
 
 <p>
-  <a href="https://badge.mediaplus.ma/greenbinary/sdiouane">
-    <img src="https://badge.mediaplus.ma/greenbinary/sdiouane" />
+  <a href="https://badge.mediaplus.ma/darkblue/sdiouane">
+    <img src="https://badge.mediaplus.ma/darkblue/sdiouane" />
   </a>
 </p>
 
