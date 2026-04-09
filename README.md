@@ -34,7 +34,9 @@
 
 ### 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salah-Diouane&theme=dark)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salah-Diouane&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667fff&line=facc15&point=c9d1d9&area=true&radius=10" width="95%" alt="Contribution Graph"/>
+
 
 
 ---
